@@ -1,3 +1,3 @@
 # FaultDiagnosis
-%% ![image](https://user-images.githubusercontent.com/62317833/216762807-1bad848d-7e2b-4a84-a786-164104d2b473.png)
+![image](https://user-images.githubusercontent.com/62317833/216763079-b230836d-0037-40cc-94e1-ca5b7ac743ae.png)
 Call me: zhangnieng@126.com
